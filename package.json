@@ -1,6 +1,6 @@
 {
   "name": "rmdashrfv-emoji-datasource",
-  "version": "16.0.0",
+  "version": "16.0.1",
   "description": "Emoji data and images with modified short_names for a better search experience",
   "main": "emoji.json",
   "repository": {
